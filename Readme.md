@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomWorkTimeExample/Form1.cs) (VB: [Form1.vb](./VB/CustomWorkTimeExample/Form1.vb))
+<!-- default file list end -->
 # How to specify several work time intervals per day depending on the day of week and resource
 
 
